@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm a data analyst with skills in SQL, Python, Tableau and Excel. I recently earned a certificate in data analytics through Google and Coursera and am eager to jump into this field. In my portfolio, you'll find my capstone project alongside upcoming spreadsheet and Python tools. You'll also find in my resume that I've got years of experience in inventory, working with spreadsheets, and doing data annotation. If you like what you see and think I'd be a good fit for your organization, I'd love to hear from you.
+Feel free to check out my resume here: https://github.com/RHead24/RHead24/blob/main/RyanHead_Data_Analyst_Resume.pdf
 <!--
 **RHead24/RHead24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
